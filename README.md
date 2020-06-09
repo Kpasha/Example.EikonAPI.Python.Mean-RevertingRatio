@@ -1,0 +1,1 @@
+# Example.EikonAPI.Python.Mean-RevertingRatio
